@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Drawing Tool</title>
+</head>
+<body>
+    <div id="container" style="width: 800px; height: 600px; border: 1px solid black;"></div>
+
+    <script src="https://cdn.jsdelivr.net/npm/konva@8.4.0/konva.min.js"></script>
+    <script>
+        // JavaScript goes here
+    </script>
+</body>
+</html>
